@@ -28,139 +28,139 @@ annotations:
     reference: ''
     span:
       start: 3558
-      end: 4981
+      end: 4984
     note_ref: 3120feb291c047c6a3149df8ca0721cd
   f93a00fc0f664908ac9d295f3ef7111b:
     imgnum: 231
     reference: ''
     span:
-      start: 4983
-      end: 6367
+      start: 4986
+      end: 6370
     note_ref: 3120feb291c047c6a3149df8ca0721cd
   36fe5f03d5d0431f9bcc26b76302d548:
     imgnum: 232
     reference: ''
     span:
-      start: 6369
-      end: 7809
+      start: 6372
+      end: 7812
     note_ref: 3120feb291c047c6a3149df8ca0721cd
   73deb1a558e94f6bb5e97be5b8820b63:
     imgnum: 233
     reference: ''
     span:
-      start: 7811
-      end: 9208
+      start: 7814
+      end: 9211
     note_ref: 3120feb291c047c6a3149df8ca0721cd
   508218f8aca549718f272b592b8bdbb3:
     imgnum: 234
     reference: ''
     span:
-      start: 9210
-      end: 10589
+      start: 9213
+      end: 10592
     note_ref: 3120feb291c047c6a3149df8ca0721cd
   1f42d2da792b4300ac4485b58c26ac01:
     imgnum: 235
     reference: ''
     span:
-      start: 10591
-      end: 11946
+      start: 10594
+      end: 11949
     note_ref: 3120feb291c047c6a3149df8ca0721cd
   b2a0a4bc155e47c7a1222be7d00b39a8:
     imgnum: 236
     reference: ''
     span:
-      start: 11948
-      end: 13317
+      start: 11951
+      end: 13320
     note_ref: 3120feb291c047c6a3149df8ca0721cd
   6e8a5f863d944c5d8fce3a3bba3a8d12:
     imgnum: 237
     reference: ''
     span:
-      start: 13319
-      end: 14694
+      start: 13322
+      end: 14697
     note_ref: 3120feb291c047c6a3149df8ca0721cd
   4f2fe707d7c2400685a476adf2c0fe59:
     imgnum: 238
     reference: ''
     span:
-      start: 14696
-      end: 16080
+      start: 14699
+      end: 16083
     note_ref: 3120feb291c047c6a3149df8ca0721cd
   5504eb17980c47aaa0daae4724f6c756:
     imgnum: 239
     reference: ''
     span:
-      start: 16082
-      end: 17506
+      start: 16085
+      end: 17509
     note_ref: 3120feb291c047c6a3149df8ca0721cd
   1f985b2c03f145b4a664bd4b05b74a21:
     imgnum: 240
     reference: ''
     span:
-      start: 17508
-      end: 19012
+      start: 17511
+      end: 19015
     note_ref: e24f68ee34ee4630a58dfb3e3a783bbd
   403a9c5ec52c4217978096bdd8db3e4c:
     imgnum: 241
     reference: ''
     span:
-      start: 19014
-      end: 20490
+      start: 19017
+      end: 20493
     note_ref: e24f68ee34ee4630a58dfb3e3a783bbd
   2cc0f26f968d4f39927ae0d2e7a6056c:
     imgnum: 242
     reference: ''
     span:
-      start: 20492
-      end: 21973
+      start: 20495
+      end: 21976
     note_ref: e24f68ee34ee4630a58dfb3e3a783bbd
   a68aada1e12145068f87ebfad9da7064:
     imgnum: 243
     reference: ''
     span:
-      start: 21975
-      end: 23423
+      start: 21978
+      end: 23426
     note_ref: e24f68ee34ee4630a58dfb3e3a783bbd
   8ae329517fbe4902a8f6df845503aedc:
     imgnum: 244
     reference: ''
     span:
-      start: 23425
-      end: 24822
+      start: 23428
+      end: 24825
     note_ref: e24f68ee34ee4630a58dfb3e3a783bbd
   90c8882f8ec34221a295521abb3159ab:
     imgnum: 245
     reference: ''
     span:
-      start: 24824
-      end: 26296
+      start: 24827
+      end: 26299
     note_ref: e24f68ee34ee4630a58dfb3e3a783bbd
   071a755d046e485d8b7f2afc8d94f058:
     imgnum: 246
     reference: ''
     span:
-      start: 26298
-      end: 27720
+      start: 26301
+      end: 27723
     note_ref: e24f68ee34ee4630a58dfb3e3a783bbd
   05594dbb4cf84299ac5df6df6a46e076:
     imgnum: 247
     reference: ''
     span:
-      start: 27722
-      end: 28575
+      start: 27725
+      end: 28578
     note_ref: e24f68ee34ee4630a58dfb3e3a783bbd
   3120feb291c047c6a3149df8ca0721cd:
     imgnum: 248
     reference: ''
     span:
-      start: 28577
-      end: 30456
+      start: 28580
+      end: 30459
   e24f68ee34ee4630a58dfb3e3a783bbd:
     imgnum: 249
     reference: ''
     span:
-      start: 30458
-      end: 32427
+      start: 30461
+      end: 32430
 local_ids:
   6be387fae43b4070acd17edd4e77e420: 200000
   b060a2cce0a1449d92ee6db3b1637b6e: 200001
